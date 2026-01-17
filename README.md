@@ -32,4 +32,4 @@ FontAwesome (Legal & Professional Iconography)
 
 Disclaimer: This project is an educational resource intended to simplify legal concepts and does not constitute legal advice.
 
-![Views](https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&repo=bnss-roadmap&color=FFD700&style=flat-square&label=ROADMAP+VIEWS)
+![Views](https://komarev.com/ghpvc/?username=abhishekyadav27001-lab&repo=bnss-roadmap&color=FFD700&style=flat-square&label=ROADMAP+VIEWS)
